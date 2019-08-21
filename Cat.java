@@ -9,6 +9,7 @@ public class Cat
 {
     // instance variables - replace the example below with your own
     private int x;
+    private int y = 1000000;
 
     /**
      * Constructor for objects of class Cat
